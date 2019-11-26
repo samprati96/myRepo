@@ -8,6 +8,8 @@ var app =  express();
 
 console.log("shhhhhhhu");
 
+console.log("shhhhhhhu3");
+
 
 //app.use("/emps", empsRouter);
 //app.use("/admin", adminRouter);
