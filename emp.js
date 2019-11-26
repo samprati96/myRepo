@@ -1,1 +1,1 @@
-console.log("Tera yaar hu mai");
+console.log("Tera yaar hu mai!!!");
